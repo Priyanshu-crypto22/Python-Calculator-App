@@ -38,7 +38,7 @@ A calculator application built using Python and Tkinter.
 
 3. Run the application:
    ```bash
-   python calcultor.py
+   python calculator.py
    ```
 
 ## Screenshots
