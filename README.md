@@ -1,6 +1,6 @@
 # Python Calculator App
 
-A calculator application built using Python and Tkinter.
+A GUI calculator built with Python and Tkinter featuring keyboard support, exponentiation, square roots, modulus, and some other scientific functions.
 
 ## Features
 
